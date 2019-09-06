@@ -1,7 +1,18 @@
-# Taproom React App
+# Taproom, A React App
 ### Rochelle Roberts
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+* This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Installing Taproom
+* Clone repo on your machine
+
+```sh
+$ git clone https://github.com/rochellev/taproom.git
+$ cd  taproom
+```
+
+## Running Taproom
 
 ### `npm start`
 
